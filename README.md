@@ -10,7 +10,7 @@ Retrieves a full list of my favorite book as JSON.
 
 ### GET /author/:author
 
-Example: `/author/Fari0127` will retrieve all books by Frank Herbert.
+Example: `/author/Fari0127` will retrieve all books by Fari0127.
 
 ### GET /title/:title
 
